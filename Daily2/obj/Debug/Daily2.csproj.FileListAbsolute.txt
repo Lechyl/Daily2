@@ -1,0 +1,7 @@
+C:\Users\SDE-03062\source\repos\Daily2\Daily2\bin\Debug\Daily2.exe.config
+C:\Users\SDE-03062\source\repos\Daily2\Daily2\bin\Debug\Daily2.exe
+C:\Users\SDE-03062\source\repos\Daily2\Daily2\bin\Debug\Daily2.pdb
+C:\Users\SDE-03062\source\repos\Daily2\Daily2\obj\Debug\Daily2.csprojResolveAssemblyReference.cache
+C:\Users\SDE-03062\source\repos\Daily2\Daily2\obj\Debug\Daily2.csproj.CoreCompileInputs.cache
+C:\Users\SDE-03062\source\repos\Daily2\Daily2\obj\Debug\Daily2.exe
+C:\Users\SDE-03062\source\repos\Daily2\Daily2\obj\Debug\Daily2.pdb
